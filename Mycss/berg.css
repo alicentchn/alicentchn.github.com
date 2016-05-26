@@ -93,8 +93,18 @@ body {
 /*---------------------------------------------------------------------*/
 /*  1.2. TEXT COLOR
 /*---------------------------------------------------------------------*/
+.text-grey01{
+  margin-bottom: 10px;
+}
+.text-grey02{
+  margin-bottom: 20px;
+}
+.text-grey03{
+  margin-bottom: -15px;
+}
 .text-grey {
   color: #a1a1a1;
+
 }
 
 .colored-text {
@@ -199,6 +209,15 @@ span.divider {
   height: 2px;
   background-color: #c80a48;
 }
+span.divider01 {
+  display: block;
+  margin-top: 35px;
+  margin-bottom: 0px ;
+  width: 150px;
+  height: 2px;
+  background-color: #c80a48;
+}
+
 
 span.divider.center {
   margin-right: auto;
